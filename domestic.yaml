@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,amap.com
   - DOMAIN-SUFFIX,autonavi.com
   - DOMAIN-KEYWORD,baidu
+  - DOMAIN-KEYWORD,lanzou
   - DOMAIN-SUFFIX,bdimg.com
   - DOMAIN-SUFFIX,bdstatic.com
   - DOMAIN-SUFFIX,b23.tv
