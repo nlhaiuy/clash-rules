@@ -249,6 +249,7 @@ payload:
   - DOMAIN-SUFFIX,techcrunch.com
   - DOMAIN-SUFFIX,techsmith.com
   - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,telegra.ph
   - DOMAIN-KEYWORD,telegram
   - DOMAIN-KEYWORD,telegraph
   - DOMAIN-SUFFIX,thepiratebay.org
