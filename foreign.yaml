@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,ihcloud.net
   - DOMAIN-SUFFIX,asmr.one
+  - DOMAIN-SUFFIX,yamibo.com
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-SUFFIX,gstatic.com
