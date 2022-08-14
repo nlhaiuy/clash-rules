@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN,dmhy.justyao.workers.dev
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-SUFFIX,fb.me
