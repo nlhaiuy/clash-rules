@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,recaptcha.net
   - DOMAIN,dmhy.justyao.workers.dev
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN-KEYWORD,microsoft
