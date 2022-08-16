@@ -235,7 +235,7 @@ payload:
   - DOMAIN-SUFFIX,sony.com
   - DOMAIN-SUFFIX,soundcloud.com
   - DOMAIN-SUFFIX,sourceforge.net
-  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-KEYWORD,spotify
   - DOMAIN-SUFFIX,squarespace.com
   - DOMAIN-SUFFIX,sstatic.net
   - DOMAIN-SUFFIX,st.luluku.pw
