@@ -28,6 +28,8 @@ payload:
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,bilivideo.com
   - DOMAIN-SUFFIX,bilivideo.cn
+  - DOMAIN-SUFFIX,bgm.tv
+  - DOMAIN-SUFFIX,bangumi.tv
   - DOMAIN-SUFFIX,max-c.com
   - DOMAIN-SUFFIX,maxjia.com
   - DOMAIN-SUFFIX,caiyunapp.com
