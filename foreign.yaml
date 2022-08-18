@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,ihcloud.net
   - DOMAIN-SUFFIX,asmr.one
   - DOMAIN-SUFFIX,yamibo.com
+  - DOMAIN-SUFFIX,kemono.party
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-SUFFIX,gstatic.com
