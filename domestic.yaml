@@ -15,6 +15,7 @@ payload:
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,aliyun
   - DOMAIN-KEYWORD,taobao
+  - DOMAIN-SUFFIX,aliapp.org
   - DOMAIN-SUFFIX,amap.com
   - DOMAIN-SUFFIX,autonavi.com
   - DOMAIN-KEYWORD,baidu
