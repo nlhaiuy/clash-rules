@@ -65,6 +65,7 @@ payload:
   - DOMAIN-SUFFIX,flickr.com
   - DOMAIN-SUFFIX,flipboard.com
   - DOMAIN-SUFFIX,g.co
+  - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,gmodules.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,gvt0.com
