@@ -93,6 +93,7 @@ payload:
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,tianyancha.com
   - DOMAIN-SUFFIX,tmall.com
+  - DOMAIN-SUFFIX,toutiao.com
   - DOMAIN-SUFFIX,wanmei.com
   - DOMAIN-SUFFIX,weather.com
   - DOMAIN-SUFFIX,wechat.com
@@ -116,3 +117,4 @@ payload:
   - DOMAIN-SUFFIX,yuributa.com
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,zhimg.com
+  - DOMAIN-SUFFIX,zhuanzhuan.com
