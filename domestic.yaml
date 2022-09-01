@@ -68,6 +68,8 @@ payload:
   - DOMAIN-SUFFIX,mob.com
   - DOMAIN-SUFFIX,netease.com
   - DOMAIN-SUFFIX,oschina.net
+  - DOMAIN-SUFFIX,pinduoduo.com
+  - DOMAIN-SUFFIX,pddpic.com
   - DOMAIN-SUFFIX,ppsimg.com
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,qcloud.com
