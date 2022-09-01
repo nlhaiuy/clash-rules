@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,biliapi.com
   - DOMAIN-SUFFIX,biliapi.net
   - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,biliimg.com
   - DOMAIN-SUFFIX,biligame.com
   - DOMAIN-SUFFIX,biligame.net
   - DOMAIN-SUFFIX,biligo.com
