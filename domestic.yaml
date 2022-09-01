@@ -9,7 +9,6 @@ payload:
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-SUFFIX,163.com
   - DOMAIN-SUFFIX,acfun.tv
-  - DOMAIN-SUFFIX,acplay.net
   - DOMAIN-SUFFIX,aixifan.com
   - DOMAIN-SUFFIX,aliapp.org
   - DOMAIN-SUFFIX,amap.com
@@ -34,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,coolapk.com
   - DOMAIN-SUFFIX,csdn.net
   - DOMAIN-SUFFIX,ctrip.com
+  - DOMAIN-SUFFIX,dandanplay.net
   - DOMAIN-SUFFIX,dianping.com
   - DOMAIN-SUFFIX,douban.com
   - DOMAIN-SUFFIX,doubanio.com
