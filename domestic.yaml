@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,autonavi.com
   - DOMAIN-SUFFIX,b23.tv
   - DOMAIN-SUFFIX,bangumi.tv
+  - DOMAIN-SUFFIX,bcebos.com
   - DOMAIN-SUFFIX,bdimg.com
   - DOMAIN-SUFFIX,bdstatic.com
   - DOMAIN-SUFFIX,bgm.tv
@@ -42,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,douyuscdn.com
   - DOMAIN-SUFFIX,douyutv.com
   - DOMAIN-SUFFIX,duokan.com
+  - DOMAIN-SUFFIX,duxiaoman.com
   - DOMAIN-SUFFIX,ele.me
   - DOMAIN-SUFFIX,elecfans.com
   - DOMAIN-SUFFIX,eleme.cn
