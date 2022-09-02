@@ -9,6 +9,7 @@ payload:
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-SUFFIX,58.com
   - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,360buyimg.com
   - DOMAIN-SUFFIX,acfun.tv
   - DOMAIN-SUFFIX,aliapp.org
   - DOMAIN-SUFFIX,amap.com
