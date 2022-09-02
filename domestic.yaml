@@ -85,6 +85,8 @@ payload:
   - DOMAIN-SUFFIX,qqurl.com
   - DOMAIN-SUFFIX,rarbg.to
   - DOMAIN-SUFFIX,sinaapp.com
+  - DOMAIN-SUFFIX,smtcdns.net
+  - DOMAIN-SUFFIX,smtcdns.com
   - DOMAIN-SUFFIX,smzdm.com
   - DOMAIN-SUFFIX,sogou.com
   - DOMAIN-SUFFIX,sogoucdn.com
