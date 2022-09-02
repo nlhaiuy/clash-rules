@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,-cn
+  - DOMAIN-KEYWORD,alibaba
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,aliyun
