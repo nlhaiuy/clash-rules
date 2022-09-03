@@ -71,6 +71,7 @@ payload:
   - DOMAIN-SUFFIX,miaopai.com
   - DOMAIN-SUFFIX,miui.com
   - DOMAIN-SUFFIX,miwifi.com
+  - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,mob.com
   - DOMAIN-SUFFIX,netease.com
   - DOMAIN-SUFFIX,oschina.net
