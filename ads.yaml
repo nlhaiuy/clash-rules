@@ -3,3 +3,10 @@ payload:
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
   - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,wan.douyu.com
+  - DOMAIN-SUFFIX,g.wan.douyu.com
+  - DOMAIN-SUFFIX,club-img.douyucdn.cn
+  - DOMAIN-SUFFIX,cs-op.douyucdn.cn
+  - DOMAIN-SUFFIX,gift.douyucdn.cn
+  - DOMAIN-SUFFIX,rtbapi.douyucdn.cn
+  - DOMAIN-SUFFIX,dotcounter.douyutv.com
