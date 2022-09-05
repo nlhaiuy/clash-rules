@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,dns.alidns.com
   - DOMAIN-KEYWORD,-cn
   - DOMAIN-KEYWORD,alibaba
   - DOMAIN-KEYWORD,alicdn
