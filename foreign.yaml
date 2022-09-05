@@ -113,6 +113,7 @@ payload:
   - DOMAIN-SUFFIX,telegra.ph
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,twitch.tv
+  - DOMAIN-SUFFIX,ttvnw.net
   - DOMAIN-SUFFIX,ublock.org
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,windows.com
