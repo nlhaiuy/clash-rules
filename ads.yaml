@@ -15,3 +15,4 @@ payload:
   - DOMAIN,ad.doubleclick.net
   - DOMAIN,pagead2.googlesyndication.com
   - DOMAIN,googleads.g.doubleclick.net
+  - DOMAIN,www.googleadservices.com
