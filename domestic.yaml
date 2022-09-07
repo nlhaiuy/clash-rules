@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN,dns.alidns.com
+  - DOMAIN,servicewechat.com
   - DOMAIN-KEYWORD,-cn
   - DOMAIN-KEYWORD,alibaba
   - DOMAIN-KEYWORD,alicdn
@@ -57,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,huya.com
   - DOMAIN-SUFFIX,hxcdn.net
+  - DOMAIN-SUFFIX,hwwt8.com
   - DOMAIN-SUFFIX,ipip.net
   - DOMAIN-SUFFIX,iqiyi.com
   - DOMAIN-SUFFIX,jd.com
