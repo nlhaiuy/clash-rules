@@ -11,8 +11,6 @@ payload:
   - DOMAIN,rtbapi.douyucdn.cn
   - DOMAIN,dotcounter.douyutv.com
   - DOMAIN,ads.youtube.com
-  - DOMAIN,ade.googlesyndication.com
   - DOMAIN,ad.doubleclick.net
-  - DOMAIN,pagead2.googlesyndication.com
   - DOMAIN,googleads.g.doubleclick.net
-  - DOMAIN,www.googleadservices.com
+  - DOMAIN-SUFFIX,googlesyndication.com
