@@ -1,3 +1,4 @@
+# behavior: classical
 payload:
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,e-hentai.org
