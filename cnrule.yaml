@@ -1,3 +1,4 @@
+# behavior: classical
 payload:
   - DOMAIN,servicewechat.com
   - DOMAIN-KEYWORD,-cn
