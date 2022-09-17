@@ -1,6 +1,5 @@
 # behavior: classical
 payload:
-  - DOMAIN,servicewechat.com
   - DOMAIN-KEYWORD,-cn
   - DOMAIN-KEYWORD,alibaba
   - DOMAIN-KEYWORD,alicdn
@@ -10,6 +9,7 @@ payload:
   - DOMAIN-KEYWORD,bilicdn
   - DOMAIN-KEYWORD,lanzou
   - DOMAIN-KEYWORD,taobao
+  - DOMAIN-KEYWORD,wechat
   - DOMAIN-SUFFIX,58.com
   - DOMAIN-SUFFIX,163.com
   - DOMAIN-SUFFIX,360buyimg.com
