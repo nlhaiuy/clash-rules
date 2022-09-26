@@ -34,3 +34,5 @@ payload:
   - '+.ysm.yahoo.com'
   - '+.gemini.yahoo.com'
   - '+.ads.yahoo.com'
+  - '+.ads.yap.yahoo.com'
+  - '+.geo.yahoo.com'
