@@ -30,5 +30,7 @@ payload:
   - '+.pagead-tpc.l.google.com'
   - '+.pagead.google.com'
   - '+.pagead.l.google.com'
-  - '+.l.tyrantdb.com'
   - '+.mmstat.com'
+  - '+.ysm.yahoo.com'
+  - '+.gemini.yahoo.com'
+  - '+.ads.yahoo.com'
