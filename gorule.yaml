@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,evernote.com
   - DOMAIN-SUFFIX,fabric.io
   - DOMAIN-SUFFIX,fast.com
