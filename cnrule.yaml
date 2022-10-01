@@ -65,6 +65,7 @@ payload:
   - DOMAIN-SUFFIX,le.com
   - DOMAIN-SUFFIX,lecloud.com
   - DOMAIN-SUFFIX,lemicp.com
+  - DOMAIN-SUFFIX,myapp.com
   - DOMAIN-SUFFIX,max-c.com
   - DOMAIN-SUFFIX,maxjia.com
   - DOMAIN-SUFFIX,meituan.com
