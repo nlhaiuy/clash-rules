@@ -9,6 +9,7 @@ payload:
   - DOMAIN-KEYWORD,bilicdn
   - DOMAIN-KEYWORD,lanzou
   - DOMAIN-KEYWORD,taobao
+  - DOMAIN-KEYWORD,tencent
   - DOMAIN-KEYWORD,wechat
   - DOMAIN-SUFFIX,58.com
   - DOMAIN-SUFFIX,163.com
