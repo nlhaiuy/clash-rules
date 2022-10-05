@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,asmr.one
   - DOMAIN-SUFFIX,aspnetcdn.com
+  - DOMAIN-SUFFIX,ampproject.org
   - DOMAIN-SUFFIX,att.com
   - DOMAIN-SUFFIX,awsstatic.com
   - DOMAIN-SUFFIX,azureedge.net
