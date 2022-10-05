@@ -64,3 +64,7 @@ payload:
   - '+.urchin.com'
   - '+.wan.douyu.com'
   - '+.ysm.yahoo.com'
+  - '+.evt.mxplay.com'
+  - 'adeventtracker.spotify.com'
+  - 'adstudio-assets.scdn.co'
+  - 'bloodhound.spotify.com'
