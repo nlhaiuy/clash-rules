@@ -22,6 +22,7 @@ payload:
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-SUFFIX,adblockplus.org
   - DOMAIN-SUFFIX,adobe.com
+  - DOMAIN-SUFFIX,anti-ad.net
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,android.com
   - DOMAIN-SUFFIX,apkpure.com
