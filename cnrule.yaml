@@ -84,6 +84,7 @@ payload:
   - DOMAIN-SUFFIX,ppsimg.com
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-SUFFIX,qcloud.com
+  - DOMAIN-SUFFIX,myqcloud.com
   - DOMAIN-SUFFIX,qidian.com
   - DOMAIN-SUFFIX,qiyipic.com
   - DOMAIN-SUFFIX,qq.com
