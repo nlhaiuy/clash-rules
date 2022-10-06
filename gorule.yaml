@@ -5,6 +5,7 @@ payload:
   - DOMAIN,ehwiki.org
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,blogspot
+  - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-KEYWORD,dropbox
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,github
