@@ -83,3 +83,4 @@ payload:
   - 'adstudio-assets.scdn.co'
   - 'bloodhound.spotify.com'
   - '+.googletagservices.com'
+  - '+.mobileads.google.com'
