@@ -83,3 +83,4 @@ payload:
   - 'bloodhound.spotify.com'
   - '+.googletagservices.com'
   - '+.mobileads.google.com'
+  - '+.adkwai.com'
