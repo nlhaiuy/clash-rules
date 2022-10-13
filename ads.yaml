@@ -1,7 +1,6 @@
 # behavior: domain
 payload:
   - '+.2mdn.net'
-  - '+.ad.youtube.com'
   - '+.adash.man.aliyuncs.com'
   - '+.admob.com'
   - '+.ads.google.com'
