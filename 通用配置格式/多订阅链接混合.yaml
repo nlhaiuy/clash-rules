@@ -1,0 +1,94 @@
+mixed-port: 7890
+allow-lan: false
+bind-address: '*'
+mode: rule
+log-level: info
+ipv6: false
+external-controller: 127.0.0.1:9090
+external-ui: folder
+
+profile:
+  store-selected: true
+  store-fake-ip: false
+
+dns:
+  enable: true
+  listen: 0.0.0.0:1053
+  ipv6: false
+  default-nameserver:
+    - 223.5.5.5
+    - 8.8.8.8
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  nameserver:
+    - 223.5.5.5
+    - 8.8.8.8
+
+proxies:
+proxy-providers:
+  节点提供者1:
+    type: http
+    url: "节点链接"
+    interval: 86400
+    path: ./节点组1.yaml
+    filter: ''  #节点关键词筛选，多个用|分隔
+    health-check:
+      enable: true
+      interval: 600
+      url: 'http://www.gstatic.com/generate_204'
+
+  节点提供者2:
+    type: http
+    url: "节点链接"
+    interval: 86400
+    path: ./节点组2.yaml
+    filter: ''
+    health-check:
+      enable: true
+      interval: 600
+      url: 'http://www.gstatic.com/generate_204'
+
+proxy-groups:
+  - name: 代理
+    type: select
+    proxies:
+      - 自动选择
+    use:
+      - 节点提供者1
+      - 节点提供者2
+
+  - name: 自动选择
+    type: url-test
+    use:
+      - 节点提供者1
+      - 节点提供者2
+
+rule-providers:
+  广告规则:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
+    path: ./ruleset/广告规则.yaml
+    interval: 86400
+
+  代理规则:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt"
+    path: ./ruleset/代理规则.yaml
+    interval: 86400
+
+  直连规则:
+    type: http
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt"
+    path: ./ruleset/直连规则.yaml
+    interval: 86400
+
+rules:
+ # - RULE-SET,广告规则,REJECT  # 去广告规则，去掉最前面的井号即可使用
+  - RULE-SET,代理规则,代理
+  - RULE-SET,直连规则,DIRECT
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,代理
