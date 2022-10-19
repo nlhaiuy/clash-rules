@@ -11,6 +11,7 @@ payload:
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,tencent
   - DOMAIN-KEYWORD,wechat
+  - DOMAIN-SUFFIX,123pan.com
   - DOMAIN-SUFFIX,58.com
   - DOMAIN-SUFFIX,163.com
   - DOMAIN-SUFFIX,360buyimg.com
