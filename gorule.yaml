@@ -46,6 +46,7 @@ payload:
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,cloudmagic.com
   - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-SUFFIX,dandanplay.net
   - DOMAIN-SUFFIX,db.tt
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,docker.com
