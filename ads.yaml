@@ -1,5 +1,5 @@
 # behavior: domain
 payload:
-  - '+.e.kuaishou.com'  
+  - '+open.e.kuaishou.com'  
   - '+.pangolin-sdk-toutiao-b.com'
   - '+.pangolin-sdk-toutiao.com'
