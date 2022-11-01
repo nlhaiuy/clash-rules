@@ -1,5 +1,6 @@
 # behavior: domain
 payload:
-  - 'open.e.kuaishou.com'  
+# 卡音
+  - 'open.e.kuaishou.com'
+# 斗鱼
   - 'rtbapi.douyucdn.cn'
-  - '+.pangolin-sdk-toutiao.com'
