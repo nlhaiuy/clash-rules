@@ -1,6 +1,6 @@
 # behavior: domain
 payload:
-# 卡音
+# 卡音开屏
   - 'open.e.kuaishou.com'
-# 斗鱼
+# 斗鱼开屏
   - 'rtbapi.douyucdn.cn'
