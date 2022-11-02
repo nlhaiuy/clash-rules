@@ -4,3 +4,5 @@ payload:
   - 'open.e.kuaishou.com'
 # 斗鱼开屏
   - 'rtbapi.douyucdn.cn'
+# 酷安开屏
+  - 'log-api.pangolin-sdk-toutiao-b.com'
