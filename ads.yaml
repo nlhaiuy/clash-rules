@@ -10,6 +10,9 @@ payload:
   - 'log-api.pangolin-sdk-toutiao.com'
   - 'log-api.pangolin-sdk-toutiao-b.com'
 
+# MX播放器
+  - '+.evt.mxplay.com'
+
 # 阿里巴巴广告
   - '+.a.alimama.cn'
   - '+.acjs.aliyun.com'
