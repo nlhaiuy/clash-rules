@@ -386,6 +386,10 @@ payload:
   - '+.douyuscdn.com'
   - '+.douyutv.com'
 
+# 虎牙
+  - '+.huya.com'
+  - '+.msstatic.com'
+
 # 京东
   - '+.1huizhan.com'
   - '+.3.cn'
