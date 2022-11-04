@@ -13,6 +13,25 @@ payload:
 # MX播放器
   - '+.evt.mxplay.com'
 
+# 爱奇艺广告
+  - '+.a.ckm.iqiyi.com'
+  - '+.ad.m.iqiyi.com'
+  - '+.afp.iqiyi.com'
+  - '+.c.uaa.iqiyi.com'
+  - '+.cloudpush.iqiyi.com'
+  - '+.cm.passport.iqiyi.com'
+  - '+.cupid.iqiyi.com'
+  - '+.emoticon.sns.iqiyi.com'
+  - '+.gamecenter.iqiyi.com'
+  - '+.hotchat-im.iqiyi.com'
+  - '+.ifacelog.iqiyi.com'
+  - '+.mbdlog.iqiyi.com'
+  - '+.msg.71.am'
+  - '+.msg.video.qiyi.com'
+  - '+.msg2.video.qiyi.com'
+  - '+.policy.video.iqiyi.com'
+  - '+.yuedu.iqiyi.com'
+
 # 阿里巴巴广告
   - '+.a.alimama.cn'
   - '+.acjs.aliyun.com'
@@ -277,6 +296,27 @@ payload:
   - 'log-sdk.gifshow.com'
   - 'wlog.kuaishou.com'
 
+# 搜狐（搜狗）广告
+  - '+.adnet.sohu.com'
+  - '+.ads.sohu.com'
+  - '+.adv-sv-show.focus.cn'
+  - '+.aty.sohu.com'
+  - '+.data.vod.itc.cn'
+  - '+.epro.sogou.com'
+  - '+.go.sohu.com'
+  - '+.golden1.sogou.com'
+  - '+.imp.optaim.com'
+  - '+.inte.sogou.com'
+  - '+.inte.sogoucdn.com'
+  - '+.lu.sogoucdn.com'
+  - '+.pv.sohu.com'
+  - '+.theta.sogoucdn.com'
+  - '+.track.sohu.com'
+  - '+.uranus.sogou.com'
+  - '+.v2.reachmax.cn'
+  - '643108e7617ef.cdn.sohucs.com'
+  - 'e8aeb8bbdbbd7.cdn.sohucs.com'
+
 # 新浪广告
   - '+.2016.sina.cn'
   - '+.ad.sina.com.cn'
@@ -404,6 +444,12 @@ payload:
   - '+.gemini.yahoo.com'
   - '+.ysm.yahoo.com'
 
+# 友盟（移动应用统计分析）
+  - '+.alog.umeng.com'
+  - '+.alog.umengcloud.com'
+  - '+.w.cnzz.com'
+  - '+.z.gds.cnzz.com'
+
 # 优酷广告
   - '+.a-dxk.play.api.3g.youku.com'
   - '+.actives.youku.com'
@@ -449,7 +495,7 @@ payload:
   - '+.ykatr.youku.com'
   - '+.ykrec.youku.com'
 
-# 字节跳动
+# 字节跳动广告
   - '+.bds.snssdk.com'
   - '+.ctobsnssdk.com'
   - '+.dig.bdurl.net'
