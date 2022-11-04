@@ -378,6 +378,14 @@ payload:
   - '+.yo9.com'
   - 'upos-hz-mirrorakam.akamaized.net'
 
+# 斗鱼
+  - '+.douyu.com'
+  - '+.douyu.tv'
+  - '+.douyucdn.cn'
+  - '+.douyucdn2.cn'
+  - '+.douyuscdn.com'
+  - '+.douyutv.com'
+
 # 京东
   - '+.1huizhan.com'
   - '+.3.cn'
