@@ -1,16 +1,16 @@
 # behavior: domain
 payload:
-# 卡音开屏
+# 卡音开屏广告
   - 'open.e.kuaishou.com'
 
-# 斗鱼开屏
+# 斗鱼开屏广告
   - 'rtbapi.douyucdn.cn'
 
-# 酷安开屏
+# 酷安开屏广告
   - 'log-api.pangolin-sdk-toutiao.com'
   - 'log-api.pangolin-sdk-toutiao-b.com'
 
-# MX播放器
+# MX播放器广告
   - '+.evt.mxplay.com'
 
 # 爱奇艺广告
