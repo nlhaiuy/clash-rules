@@ -13,6 +13,10 @@ payload:
 # MX播放器广告
   - '+.evt.mxplay.com'
 
+# adobe广告
+  - '+.advertising.adobe.com'
+  - '+.tubemogul.com'
+
 # 爱奇艺广告
   - '+.a.ckm.iqiyi.com'
   - '+.ad.m.iqiyi.com'
@@ -255,6 +259,19 @@ payload:
   - '+.znsv.baidu.com'
   - '+.zz.bdstatic.com'
   - '+.zzy1.quyaoya.com'
+
+# dmm广告
+  - '+.ad.games.dmm.com'
+  - '+.bluekai.com'
+  - '+.fout.jp'
+  - '+.gmossp-sp.jp'
+  - '+.i-mobile.co.jp'
+  - '+.im-apps.net'
+  - '+.impact-ad.jp'
+  - '+.ladsp.com'
+  - '+.microad.co.jp'
+  - '+.microad.jp'
+  - '+.socdm.com'
 
 # 谷歌广告
   - '+.2mdn.net'
