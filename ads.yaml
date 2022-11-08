@@ -298,7 +298,7 @@ payload:
   - '+.googlesyndication.com'
   - '+.googletagmanager.com'
   - '+.googletagservices.com'
-  - '+.googletraveladservices.com'
+ # - '+.googletraveladservices.com'
   - '+.urchin.com'
 
 # 京东广告
@@ -453,8 +453,8 @@ payload:
   - '+.misc.in.duokanbox.com'
   - '+.mistat.xiaomi.com'
   - '+.tjqonline.cn'
-  - '+.tracking.miui.com'
-  - '+.umeng.com'
+ # - '+.tracking.miui.com'
+ # - '+.umeng.com'
 
 # 雅虎广告
   - '+.ads.yahoo.com'
