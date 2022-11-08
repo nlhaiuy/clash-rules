@@ -8,11 +8,33 @@ payload:
   - '+.zhipin.com'
   - '+.tool.lu'
   - '+.itunes.apple.com'
+  - '+.huawei.com'
+
+# #
+# 115科技
+  - '+.115.com'
+  - '+.115cdn.com'
+  - '+.115cdn.net'
+  - '+.115img.com'
+  - '+.116cd.cn'
+  - '+.116cd.com'
+  - '+.116cd.net'
+  - '+.anxia.com'
+  - '+.sq.cc'
 
 # 123云盘
   - '+.123pan.com'
   - '+.cjjd09.com'
   - '+.cjjd18.com'
+
+# A
+# Acfun
+  - '+.acfun.cn'
+  - '+.aixifan.com'
+
+# 爱发电
+  - '+.afdian.net'
+  - '+.afdiancdn.com'
 
 # 阿里巴巴
   - '+.1688.com'
@@ -292,6 +314,7 @@ payload:
   - '+.qiyipic.com'
   - '+.qy.net'
 
+# B
 # 百度
   - '+.91.com'
   - '+.aipage.com'
@@ -390,6 +413,23 @@ payload:
   - '+.yo9.com'
   - 'upos-hz-mirrorakam.akamaized.net'
 
+# C
+
+# D
+# 滴滴出行
+  - '+.didi-food.com'
+  - '+.didiaustralia.blog'
+  - '+.didichuxing.com'
+  - '+.didiglobal.com'
+  - '+.didimobility.co.jp'
+  - '+.didistatic.com'
+  - '+.xiaojukeji.com'
+
+# 豆瓣
+  - '+.douban.com'
+  - '+.douban.fm'
+  - '+.doubanio.com'
+
 # 斗鱼
   - '+.douyu.com'
   - '+.douyu.tv'
@@ -398,9 +438,82 @@ payload:
   - '+.douyuscdn.com'
   - '+.douyutv.com'
 
+# E
+
+# F
+
+# G
+# 工商银行
+  - '+.95588.com'
+  - '+.95588.com.cn'
+  - '+.dccnet.com.cn'
+  - '+.icbc'
+  - '+.icbc-at.com'
+  - '+.icbc-cz.com'
+  - '+.icbc-ltd.com'
+  - '+.icbc-uk.com'
+  - '+.icbc-us.com'
+  - '+.icbc.ae'
+  - '+.icbc.be'
+  - '+.icbc.co.id'
+  - '+.icbc.co.jp'
+  - '+.icbc.co.kr'
+  - '+.icbc.co.nl'
+  - '+.icbc.com.au'
+  - '+.icbc.com.cn'
+  - '+.icbc.com.es'
+  - '+.icbc.com.kh'
+  - '+.icbc.com.kw'
+  - '+.icbc.com.la'
+  - '+.icbc.com.mm'
+  - '+.icbc.com.mo'
+  - '+.icbc.com.mx'
+  - '+.icbc.com.pe'
+  - '+.icbc.com.pk'
+  - '+.icbc.com.qa'
+  - '+.icbc.com.sg'
+  - '+.icbc.com.vn'
+  - '+.icbc.de'
+  - '+.icbc.eu'
+  - '+.icbc.lu'
+  - '+.icbcalmaty.kz'
+  - '+.icbcasia.com'
+  - '+.icbcbr.com.br'
+  - '+.icbccs.com.cn'
+  - '+.icbccstz.com.cn'
+  - '+.icbci.com.hk'
+  - '+.icbcina.com'
+  - '+.icbcindia.com'
+  - '+.icbcit.com'
+  - '+.icbclondon.com'
+  - '+.icbcmanila.com.cn'
+  - '+.icbcme.ae'
+  - '+.icbcmoscow.ru'
+  - '+.icbcmy.com'
+  - '+.icbcnz.com'
+  - '+.icbcpanama.com'
+  - '+.icbcparis.fr'
+  - '+.icbcpl.com'
+  - '+.icbcstandard.com'
+  - '+.icbcstandardbank.com'
+  - '+.icbcstandardresources.com'
+  - '+.icbcstandardsecurities.com'
+  - '+.icbcswiss.com'
+  - '+.icbcthai.com'
+  - '+.icbkfs.com'
+  - '+.icbkus.com'
+
+# H
 # 虎牙
   - '+.huya.com'
   - '+.msstatic.com'
+
+# I
+
+# J
+# 简书
+  - '+.jianshu.com'
+  - '+.jianshu.io'
 
 # 京东
   - '+.1huizhan.com'
@@ -624,11 +737,22 @@ payload:
   - '+.yiyaojd.com'
   - '+.yizhitou.com'
 
+# K
 # 酷安
   - '+.coolapk.com'
   - '+.coolapkmarket.com'
   - '+.coolapkmarket.net'
 
+# 酷狗
+  - '+.kgimg.com'
+  - '+.kugou.com'
+
+# 开源中国
+  - '+.gitee.com'
+  - '+.gitee.io'
+  - '+.oschina.net'
+
+# L
 # 蓝奏云
   - '+.baidupan.com'
   - '+.lanzou.com'
@@ -654,6 +778,85 @@ payload:
   - '+.lanzoux.com'
   - '+.lanzouy.com'
   - '+.woozooo.com'
+
+# 乐视
+  - '+.le.com'
+  - '+.lecloud.com'
+  - '+.lemall.com'
+  - '+.letv.com'
+  - '+.letvcdn.com'
+  - '+.letvimg.com'
+
+# M
+# Max+
+  - '+.max-c.com'
+  - '+.maxjia.com'
+
+# 魅族科技
+  - '+.flyme.cn'
+  - '+.meizu.cn'
+  - '+.meizu.com'
+  - '+.mzres.com'
+
+# 米哈游
+  - '+.benghuai.com'
+  - '+.bh3.com'
+  - '+.genshinimpact.com'
+  - '+.honkaiimpact3.com'
+  - '+.honkaistarrail.com'
+  - '+.hoyo.link'
+  - '+.hoyolab.com'
+  - '+.hoyoverse.com'
+  - '+.mhyurl.cn'
+  - '+.mihayo.com'
+  - '+.mihayou.com'
+  - '+.mihoyo.com'
+  - '+.mihoyocg.com'
+  - '+.mihoyogift.com'
+  - '+.mihoyomall.com'
+  - '+.miyoushe.com'
+  - '+.n0vadesktop.com'
+  - '+.themisweeps.com'
+  - '+.yuanshen.com'
+
+# N
+
+# O
+# oppo
+  - '+.coloros.com'
+  - '+.finzfin.com'
+  - '+.heytap.com'
+  - '+.heytapcs.com'
+  - '+.heytapdownload.com'
+  - '+.heytapimage.com'
+  - '+.heytapmobi.com'
+  - '+.myoppo.com'
+  - '+.nearme.com.cn'
+  - '+.oppo.cn'
+  - '+.oppo.com'
+  - '+.oppo.mobi'
+  - '+.oppodigital.com'
+  - '+.oppoer.me'
+  - '+.oppomobile.com'
+  - '+.oppopay.com'
+  - '+.opposhop.cn'
+  - '+.realme.com'
+  - '+.realmebbs.com'
+  - '+.realmemobile.com'
+
+# P
+# 拼多多
+  - '+.pddpic.com'
+  - '+.pinduoduo.com'
+  - '+.yangkeduo.com'
+
+# Q
+# 前程无忧
+  - '+.51job.com'
+  - '+.51jobcdn.com'
+  - '+.yingjiesheng.com'
+  - '+.yingjiesheng.net'
+  - '+.zhiding.com.cn'
 
 # 奇虎360
   - '+.360-jr.com'
@@ -714,6 +917,18 @@ payload:
   - '+.xjietiao.com'
   - '+.youhua.com'
   - '+.yunpan.cn'
+
+# R
+
+# S
+# 什么值得买
+  - '+.smzdm.com'
+  - '+.zdmimg.com'
+
+# T
+# taptap
+  - '+.tapimg.com'
+  - '+.taptap.com'
 
 # 腾讯
   - '+.17roco.com'
@@ -1091,10 +1306,11 @@ payload:
   - '+.zcjbgame.com'
   - '+.zhuoyuegame.com'
 
-# Max+
-  - '+.max-c.com'
-  - '+.maxjia.com'
+# U
 
+# V
+
+# W
 # 完美世界
   - '+.wanmei.com'
   - '+.wmpvp.com'
@@ -1124,6 +1340,19 @@ payload:
   - '+.yeah.net'
   - '+.youdao.com'
 
+# X
+# 小米
+  - '+.mi-img.com'
+  - '+.mi.com'
+  - '+.mifile.cn'
+  - '+.miui.com'
+  - '+.miwifi.com'
+  - '+.xiaomi.cn'
+  - '+.xiaomi.com'
+  - '+.xiaomi.net'
+  - '+.xiaomiyoupin.com'
+
+# Y
 # 妖火网
   - '+.yaohuo.me'
   - '+.yaohw.com'
@@ -1136,6 +1365,25 @@ payload:
   - '+.ykimg.com'
   - '+.youku.com'
 
+# 阅文集团
+  - '+.hongxiu.com'
+  - '+.lrts.me'
+  - '+.qdmm.com'
+  - '+.qidian.com'
+  - '+.readnovel.com'
+  - '+.tingbook.com'
+  - '+.webnovel.com'
+  - '+.xs8.cn'
+  - '+.xxsy.net'
+  - '+.yuewen.com'
+
+# yy直播
+  - '+.duowan.com'
+  - '+.dwstatic.com'
+  - '+.yy.com'
+  - '+.yystatic.com'
+
+# Z
 # 招商银行
   - '+.8008205555.cn'
   - '+.8008205555.com'
@@ -1158,3 +1406,96 @@ payload:
   - '+.cmfchina.com'
   - '+.cmfunds.cn'
   - '+.test-cignacmb.com'
+
+# 知乎
+  - '+.zhihu.com'
+  - '+.zhimg.com'
+
+# 中国移动
+  - '+.10086.cn'
+  - '+.139.com'
+  - '+.andfx.cn'
+  - '+.andfx.net'
+  - '+.chinamobile.com'
+  - '+.chinamobileltd.com'
+  - '+.cmicrwx.cn'
+  - '+.cmpassport.com'
+  - '+.cmvideo.cn'
+  - '+.fetion-portal.com'
+  - '+.fetionpic.com'
+  - '+.migu.cn'
+  - '+.migucloud.com'
+  - '+.miguvideo.com'
+  - '+.mmarket.com'
+  - '+.mmarket6.com'
+
+# 中国电信
+  - '+.189.cn'
+  - '+.chinatelecom-h.com'
+  - '+.chinatelecom.com.cn'
+  - '+.chinatelecomglobal.com'
+  - '+.chntel.com'
+  - '+.ctexcel.ca'
+  - '+.ctexcel.com'
+  - '+.ctexcel.com.hk'
+  - '+.ctexcel.fr'
+  - '+.ctexcel.us'
+
+# 中国联通
+  - '+.10010.com'
+  - '+.10010.com.cn'
+  - '+.chinaunicom.com'
+  - '+.chinaunicom.com.cn'
+  - '+.chinaunicom.com.hk'
+  - '+.chinaunicomglobal.com'
+  - '+.mychinaunicom.com'
+  - '+.wo.com.cn'
+
+# 中国广电
+  - '+.10099.com.cn'
+  - '+.ahitv.com'
+  - '+.chn.cn'
+  - '+.cqccn.com'
+  - '+.gcable.com.cn'
+  - '+.isxtv.com'
+  - '+.sc96655.com'
+  - '+.sdgdwljt.com'
+
+# 中央电视台
+  - '+.cctv.cn'
+  - '+.cctv.com'
+  - '+.cctvlib.cn'
+  - '+.cctvlib.com.cn'
+  - '+.cctvlibrary.cn'
+  - '+.cctvlibrary.com.cn'
+  - '+.cctvpic.com'
+  - '+.cctvpro.cn'
+  - '+.cctvpro.com.cn'
+  - '+.chinaepg.cn'
+  - '+.chinalive.com'
+  - '+.citv.net.cn'
+  - '+.cnms.net.cn'
+  - '+.cntv.cn'
+  - '+.cntv.com.cn'
+  - '+.cntvwb.cn'
+  - '+.gjgbdszt.cn'
+  - '+.gjgbdszt.com.cn'
+  - '+.gjgbdszt.net.cn'
+  - '+.ipanda.cn'
+  - '+.ipanda.com'
+  - '+.ipanda.com.cn'
+  - '+.ipanda.net'
+  - '+.livechina.cn'
+  - '+.livechina.com'
+  - '+.olympicchannelchina.cn'
+  - '+.tvcc.cn'
+  - '+.tvcc.com.cn'
+  - '+.xn--fiq53l6wcx3kp9bc7joo6apn8a.cn'
+  - '+.xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s'
+  - '+.xn--fiq53l90et9fpncc7joo6apn8a.cn'
+  - '+.xn--kprv4ewxfr9cpxcc7joo6apn8a.cn'
+  - '+.xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s'
+  - '+.zggbdszt.cn'
+  - '+.zggbdszt.com.cn'
+  - '+.zggbdszt.net.cn'
+  - '+.zygbdszt.net.cn'
