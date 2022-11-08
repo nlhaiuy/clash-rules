@@ -454,7 +454,7 @@ payload:
   - '+.mistat.xiaomi.com'
   - '+.tjqonline.cn'
  # - '+.tracking.miui.com'
- # - '+.umeng.com'
+  - '+.umeng.com'
 
 # 雅虎广告
   - '+.ads.yahoo.com'
