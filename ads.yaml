@@ -1,14 +1,7 @@
 # behavior: domain
 payload:
-# 卡音开屏广告
-  - 'open.e.kuaishou.com'
-
 # 斗鱼开屏广告
   - 'rtbapi.douyucdn.cn'
-
-# 酷安开屏广告
-  - 'log-api.pangolin-sdk-toutiao.com'
-  - 'log-api.pangolin-sdk-toutiao-b.com'
 
 # MX播放器广告
   - '+.evt.mxplay.com'
@@ -312,6 +305,7 @@ payload:
 # 快手广告
   - 'log-sdk.gifshow.com'
   - 'wlog.kuaishou.com'
+  - 'open.e.kuaishou.com'
 
 # 搜狐（搜狗）广告
   - '+.adnet.sohu.com'
@@ -521,6 +515,7 @@ payload:
   - '+.is.snssdk.com'
   - '+.mcs.snssdk.com'
   - '+.pangolin-sdk-toutiao.com'
+  - '+.pangolin-sdk-toutiao-b.com'
   - '+.pangolin.snssdk.com'
   - '+.pglstatp-toutiao.com'
   - '+.sf3-ttcdn-tos.pstatp.com'
