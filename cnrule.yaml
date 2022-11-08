@@ -1342,6 +1342,17 @@ payload:
   - '+.youdao.com'
 
 # X
+# 迅雷
+  - '+.00cdn.com'
+  - '+.88cdn.com'
+  - '+.p2cdn.com'
+  - '+.sandai.net'
+  - '+.thundercdn.com'
+  - '+.thunderurl.com'
+  - '+.xunlei.com'
+  - '+.xycdn.com'
+  - '+.xycloud.com'
+
 # 小米
   - '+.mi-img.com'
   - '+.mi.com'
