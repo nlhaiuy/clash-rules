@@ -358,6 +358,62 @@ payload:
   - '643108e7617ef.cdn.sohucs.com'
   - 'e8aeb8bbdbbd7.cdn.sohucs.com'
 
+# T
+# 腾讯广告
+  - '+.ad.qq.com'
+  - '+.ad.qun.qq.com'
+  - '+.adfilter.imtt.qq.com'
+  - '+.adping.qq.com'
+  - '+.adpm.app.qq.com'
+  - '+.adsclick.qq.com'
+  - '+.adsfile.qq.com'
+  - '+.adshmmsg.qq.com'
+  - '+.adslvfile.qq.com'
+  - '+.adslvseed.qq.com'
+  - '+.adsmind.apdcdn.tc.qq.com'
+  - '+.adsqqclick.qq.com'
+  - '+.adstestview.qq.com'
+  - '+.adsview.qq.com'
+  - '+.adsview2.qq.com'
+  - '+.adv.app.qq.com'
+  - '+.adver.qq.com'
+  - '+.btrace.qq.com'
+  - '+.e.qq.com'
+  - '+.log.tbs.qq.com'
+  - '+.mpush.qq.com'
+  - '+.mtrace.qq.com'
+  - '+.pgdt.gtimg.cn'
+  - '+.push.qq.com'
+
+# U
+
+# V
+
+# W
+# 网易广告
+  - '+.analytics.163.com'
+  - '+.crash.163.com'
+  - '+.crashlytics.163.com'
+  - '+.g.163.com'
+
+# X
+# 小米广告
+  - '+.ad.hpplay.cn'
+  - '+.ad.intl.xiaomi.com'
+  - '+.ad.mi.com'
+  - '+.ad.xiaomi.com'
+  - '+.ad1.xiaomi.com'
+  - '+.adeng.hpplay.cn'
+  - '+.admob.xiaomi.com'
+  - '+.adv.sec.intl.miui.com'
+  - '+.adv.sec.miui.com'
+  - '+.kuyun.com'
+  - '+.misc.in.duokanbox.com'
+  - '+.mistat.xiaomi.com'
+  - '+.tjqonline.cn'
+ # - '+.tracking.miui.com'
+  - '+.umeng.com'
+
 # 新浪广告
   - '+.2016.sina.cn'
   - '+.ad.sina.com.cn'
@@ -430,62 +486,6 @@ payload:
   - '+.widget.weibo.com'
   - '+.woocall.sina.com.cn'
   - '+.zymo.mps.weibo.com'
-
-# T
-# 腾讯广告
-  - '+.ad.qq.com'
-  - '+.ad.qun.qq.com'
-  - '+.adfilter.imtt.qq.com'
-  - '+.adping.qq.com'
-  - '+.adpm.app.qq.com'
-  - '+.adsclick.qq.com'
-  - '+.adsfile.qq.com'
-  - '+.adshmmsg.qq.com'
-  - '+.adslvfile.qq.com'
-  - '+.adslvseed.qq.com'
-  - '+.adsmind.apdcdn.tc.qq.com'
-  - '+.adsqqclick.qq.com'
-  - '+.adstestview.qq.com'
-  - '+.adsview.qq.com'
-  - '+.adsview2.qq.com'
-  - '+.adv.app.qq.com'
-  - '+.adver.qq.com'
-  - '+.btrace.qq.com'
-  - '+.e.qq.com'
-  - '+.log.tbs.qq.com'
-  - '+.mpush.qq.com'
-  - '+.mtrace.qq.com'
-  - '+.pgdt.gtimg.cn'
-  - '+.push.qq.com'
-
-# U
-
-# V
-
-# W
-# 网易广告
-  - '+.analytics.163.com'
-  - '+.crash.163.com'
-  - '+.crashlytics.163.com'
-  - '+.g.163.com'
-
-# X
-# 小米广告
-  - '+.ad.hpplay.cn'
-  - '+.ad.intl.xiaomi.com'
-  - '+.ad.mi.com'
-  - '+.ad.xiaomi.com'
-  - '+.ad1.xiaomi.com'
-  - '+.adeng.hpplay.cn'
-  - '+.admob.xiaomi.com'
-  - '+.adv.sec.intl.miui.com'
-  - '+.adv.sec.miui.com'
-  - '+.kuyun.com'
-  - '+.misc.in.duokanbox.com'
-  - '+.mistat.xiaomi.com'
-  - '+.tjqonline.cn'
- # - '+.tracking.miui.com'
-  - '+.umeng.com'
 
 # Y
 # 雅虎广告
