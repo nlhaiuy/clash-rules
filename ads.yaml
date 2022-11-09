@@ -1,11 +1,6 @@
 # behavior: domain
 payload:
-# 斗鱼开屏广告
-  - 'rtbapi.douyucdn.cn'
-
-# MX播放器广告
-  - '+.evt.mxplay.com'
-
+# A
 # adobe广告
   - '+.advertising.adobe.com'
   - '+.tubemogul.com'
@@ -116,6 +111,7 @@ payload:
   - '+.w.m.taobao.com'
   - '+.yiliao.hupan.com'
 
+# B
 # 百度广告
   - '+.a.baidu.com'
   - '+.ad.duapps.com'
@@ -253,6 +249,12 @@ payload:
   - '+.zz.bdstatic.com'
   - '+.zzy1.quyaoya.com'
 
+# C
+
+# D
+# 斗鱼广告
+  - 'rtbapi.douyucdn.cn'
+
 # dmm广告
   - '+.ad.games.dmm.com'
   - '+.bluekai.com'
@@ -266,6 +268,11 @@ payload:
   - '+.microad.jp'
   - '+.socdm.com'
 
+# E
+
+# F
+
+# G
 # 谷歌广告
   - '+.2mdn.net'
   - '+.admob.com'
@@ -294,6 +301,11 @@ payload:
  # - '+.googletraveladservices.com'
   - '+.urchin.com'
 
+# H
+
+# I
+
+# J
 # 京东广告
   - '+.ads.union.jd.com'
   - '+.c-nfa.jd.com'
@@ -302,11 +314,29 @@ payload:
   - '+.jzt.jd.com'
   - '+.stat.m.jd.com'
 
+# K
 # 快手广告
   - 'log-sdk.gifshow.com'
   - 'wlog.kuaishou.com'
   - 'open.e.kuaishou.com'
 
+# l
+
+# M
+# MX播放器广告
+  - '+.evt.mxplay.com'
+
+# N
+
+# O
+
+# P
+
+# Q
+
+# R
+
+# S
 # 搜狐（搜狗）广告
   - '+.adnet.sohu.com'
   - '+.ads.sohu.com'
@@ -401,6 +431,7 @@ payload:
   - '+.woocall.sina.com.cn'
   - '+.zymo.mps.weibo.com'
 
+# T
 # 腾讯广告
   - '+.ad.qq.com'
   - '+.ad.qun.qq.com'
@@ -427,12 +458,18 @@ payload:
   - '+.pgdt.gtimg.cn'
   - '+.push.qq.com'
 
+# U
+
+# V
+
+# W
 # 网易广告
   - '+.analytics.163.com'
   - '+.crash.163.com'
   - '+.crashlytics.163.com'
   - '+.g.163.com'
 
+# X
 # 小米广告
   - '+.ad.hpplay.cn'
   - '+.ad.intl.xiaomi.com'
@@ -450,6 +487,7 @@ payload:
  # - '+.tracking.miui.com'
   - '+.umeng.com'
 
+# Y
 # 雅虎广告
   - '+.ads.yahoo.com'
   - '+.gemini.yahoo.com'
@@ -506,6 +544,7 @@ payload:
   - '+.ykatr.youku.com'
   - '+.ykrec.youku.com'
 
+# Z
 # 字节跳动广告
   - '+.bds.snssdk.com'
   - '+.ctobsnssdk.com'
