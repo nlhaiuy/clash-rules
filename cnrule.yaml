@@ -1383,18 +1383,6 @@ payload:
   - '+.ykimg.com'
   - '+.youku.com'
 
-# 阅文集团
-  - '+.hongxiu.com'
-  - '+.lrts.me'
-  - '+.qdmm.com'
-  - '+.qidian.com'
-  - '+.readnovel.com'
-  - '+.tingbook.com'
-  - '+.webnovel.com'
-  - '+.xs8.cn'
-  - '+.xxsy.net'
-  - '+.yuewen.com'
-
 # yy直播
   - '+.duowan.com'
   - '+.dwstatic.com'
