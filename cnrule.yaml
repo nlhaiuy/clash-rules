@@ -730,6 +730,12 @@ payload:
   - '+.coolapkmarket.com'
   - '+.coolapkmarket.net'
 
+# 快手
+  - '+.gifshow.com'
+  - '+.ksapisrv.com'
+  - '+.kuaishou.com'
+  - '+.yximgs.com'
+
 # 酷狗
   - '+.kgimg.com'
   - '+.kugou.com'
@@ -778,6 +784,20 @@ payload:
 # Max+
   - '+.max-c.com'
   - '+.maxjia.com'
+
+# 美图秀秀
+  - '+.meitu.com'
+  - '+.meitudata.com'
+  - '+.meitustat.com'
+
+# 美团
+  - '+.dianping.com'
+  - '+.maoyan.com'
+  - '+.meituan.com'
+  - '+.meituan.net'
+  - '+.mtyun.com'
+  - '+.neixin.cn'
+  - '+.sankuai.com'
 
 # 魅族科技
   - '+.flyme.cn'
@@ -908,6 +928,9 @@ payload:
 # R
 
 # S
+# 少数派
+  - '+.sspai.com'
+
 # 什么值得买
   - '+.smzdm.com'
   - '+.zdmimg.com'
@@ -924,6 +947,17 @@ payload:
   - '+.sfcar.hk'
   - '+.sffix.cn'
   - '+.sfgy.org'
+
+# 搜狐
+  - '+.itc.cn'
+  - '+.sohu.com'
+  - '+.sohucs.com'
+
+# 搜狗
+  - '+.go2map.com'
+  - '+.sogo.com'
+  - '+.sogou.com'
+  - '+.sogoucdn.com'
 
 # T
 # taptap
@@ -1351,6 +1385,10 @@ payload:
   - '+.xiaomi.com'
   - '+.xiaomi.net'
   - '+.xiaomiyoupin.com'
+
+# 喜马拉雅电台
+  - '+.ximalaya.com'
+  - '+.xmcdn.com'
 
 # 迅雷
   - '+.00cdn.com'
