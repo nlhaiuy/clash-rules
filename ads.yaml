@@ -1,5 +1,12 @@
 # behavior: domain
 payload:
+# 其它
+# 魔音
+  - '+.rayjump.com'
+  - '+.dc.sigmob.cn'
+  - '+.adservice.sigmob.cn'
+  - '+.track.sigmob.cn'
+
 # A
 # adobe广告
   - '+.advertising.adobe.com'
