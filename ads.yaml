@@ -1,6 +1,9 @@
 # behavior: domain
 payload:
 # 其它
+  - '+.xlivrdr.com'
+  - '+.realsrv.com'
+
 # 魔音
   - '+.rayjump.com'
   - '+.dc.sigmob.cn'
