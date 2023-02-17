@@ -961,9 +961,11 @@ payload:
   - '+.sogoucdn.com'
 
 # T
-# taptap
+# 心动网络
   - '+.tapimg.com'
   - '+.taptap.com'
+  - '+.taptapdada.com'
+  - '+.xindong.com'
 
 # 腾讯
   - '+.17roco.com'
