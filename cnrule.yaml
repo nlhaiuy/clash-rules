@@ -737,6 +737,9 @@ payload:
   - '+.kuaishou.com'
   - '+.yximgs.com'
 
+# 库洛游戏
+  - '+.kurogame.com'
+
 # 酷狗
   - '+.kgimg.com'
   - '+.kugou.com'
