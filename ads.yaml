@@ -1,6 +1,7 @@
 # behavior: domain
 payload:
 # 其它
+# sukebei.nyaa.si
   - '+.xlivrdr.com'
   - '+.realsrv.com'
 
