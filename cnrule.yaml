@@ -1757,3 +1757,6 @@ payload:
   - '+.zjbyte.cn'
   - '+.zjcdn.com'
   - 'p16-tiktokcdn-com.akamaized.net'
+
+# 召合网络
+  - '+.izhaohe.com'
