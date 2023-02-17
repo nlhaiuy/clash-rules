@@ -1,6 +1,14 @@
 # behavior: domain
 payload:
 # 其它
+# 动漫花园
+  - '+.tynt.com'
+  - '+.liadm.com'
+  - '+.simpli.fi'
+  - '+.dtscout.com'
+  - '+.lijit.com'
+  - '+.ads.linkedin.com'
+
 # sukebei.nyaa.si
   - '+.xlivrdr.com'
   - '+.realsrv.com'
@@ -503,6 +511,8 @@ payload:
 # Y
 # 雅虎广告
   - '+.ads.yahoo.com'
+  - '+.ads.yap.yahoo.com'
+  - '+.geo.yahoo.com'
   - '+.gemini.yahoo.com'
   - '+.ysm.yahoo.com'
 
