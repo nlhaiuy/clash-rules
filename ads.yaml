@@ -2,6 +2,9 @@
 payload:
 # 其它
 # 动漫花园
+  - '+.ads.yimg.com'
+  - '+.s.yimg.com'
+  - '+.kiwihk.net'
   - '+.tynt.com'
   - '+.liadm.com'
   - '+.simpli.fi'
