@@ -1422,6 +1422,9 @@ payload:
   - '+.ykimg.com'
   - '+.youku.com'
 
+# 英雄游戏
+  - '+.yingxiong.com'
+
 # yy直播
   - '+.duowan.com'
   - '+.dwstatic.com'
