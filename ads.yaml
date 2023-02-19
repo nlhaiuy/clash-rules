@@ -1,6 +1,9 @@
 # behavior: domain
 payload:
 # 其它
+# 隐私
+  - '+.appsflyer.com'
+
 # 动漫花园
   - '+.ads.yimg.com'
   - '+.s.yimg.com'
