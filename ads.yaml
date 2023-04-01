@@ -1,7 +1,7 @@
 # behavior: domain
 payload:
 # 其它
-# 隐私
+# 隐私数据分析
   - '+.appsflyer.com'
   - '+.getui.com'
   - '+.gepush.com'
