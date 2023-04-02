@@ -3,8 +3,6 @@ payload:
 # 其它
 # 隐私数据追踪
   - '+.appsflyer.com'
-  - '+.getui.com'
-  - '+.gepush.com'
   - '+.wwads.cn'
   - '+.adcolony.com'
   - '+.ads.api.vungle.com'
