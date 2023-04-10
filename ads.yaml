@@ -287,6 +287,24 @@ payload:
   - '+.zz.bdstatic.com'
   - '+.zzy1.quyaoya.com'
 
+# 哔哩哔哩广告
+  - '+.dataflow.biliapi.com'
+  - '+.thirdparty.biliapi.com'
+  - '+.cm.bilibili.com'
+  - '+.miniapp.bilibili.com'
+
+# Bigmir广告
+  - '+.ad0.bigmir.net'
+  - '+.ad1.bigmir.net'
+  - '+.ad4.bigmir.net'
+  - '+.ad5.bigmir.net'
+  - '+.ad6.bigmir.net'
+  - '+.ad7.bigmir.net'
+  - '+.adi.bigmir.net'
+  - '+.c.bigmir.net'
+  - '+.i.bigmir.net'
+  - '+.stat.bigmir.net'
+
 # C
 
 # D
@@ -361,6 +379,17 @@ payload:
 # l
 
 # M
+# mmstat广告
+  - '+.gj.mmstat.com'
+  - '+.yt.mmstat.com'
+  - '+.ac.mmstat.com'
+  - '+.hz.mmstat.com'
+  - '+.res.mmstat.com'
+  - '+.gxb.mmstat.com'
+  - '+.p3p.mmstat.com'
+  - '+.cnzz.mmstat.com'
+  - '+.oneid.mmstat.com'
+
 # MX播放器广告
   - '+.evt.mxplay.com'
 
@@ -397,6 +426,11 @@ payload:
   - '+.v2.reachmax.cn'
   - '643108e7617ef.cdn.sohucs.com'
   - 'e8aeb8bbdbbd7.cdn.sohucs.com'
+
+# Spotify广告
+  - '+.adeventtracker.spotify.com'
+  - '+.adstudio-assets.scdn.co'
+  - '+.bloodhound.spotify.com'
 
 # T
 # 腾讯广告
