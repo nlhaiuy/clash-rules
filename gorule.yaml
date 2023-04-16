@@ -16,7 +16,7 @@ payload:
   - '+.south-plus.net'
   - '+.wikipedia.org'
 
-#域名后缀
+# 域名后缀
   - '+.us'
   - '+.jp'
 
