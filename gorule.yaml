@@ -15,6 +15,10 @@ payload:
   - '+.mypikpak.com'
   - '+.south-plus.net'
 
+#域名后缀
+  - '+.us'
+  - '+.jp'
+
 # Yuri
   - '+.yuri.website'
   - '+.yamibo.com'
