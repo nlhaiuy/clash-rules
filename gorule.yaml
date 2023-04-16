@@ -14,6 +14,7 @@ payload:
   - '+.asmr-100.com'
   - '+.mypikpak.com'
   - '+.south-plus.net'
+  - '+.wikipedia.org'
 
 #域名后缀
   - '+.us'
