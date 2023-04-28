@@ -36,6 +36,9 @@ payload:
   - '+.gdtqq.cn'
   - '+.gdtimg.com'
 
+# pornhub
+  - '+.ads.trafficjunky.net'
+
 # A
 # adobe广告
   - '+.advertising.adobe.com'
