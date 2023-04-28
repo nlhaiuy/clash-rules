@@ -85,7 +85,7 @@ payload:
   - '+.apoll.m.taobao.com'
   - '+.appdownload.alicdn.com'
   - '+.atanx.alicdn.com'
-  - '+.atanx2.alicdn.com'
+ # - '+.atanx2.alicdn.com'
   - '+.cdn0.mobmore.com'
   - '+.click.aliyun.com'
   - '+.click.mz.simba.taobao.com'
