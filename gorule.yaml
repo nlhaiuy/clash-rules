@@ -15,6 +15,7 @@ payload:
   - '+.mypikpak.com'
   - '+.south-plus.net'
   - '+.wikipedia.org'
+  - '+.infini-cloud.net'
 
 # 域名后缀
   - '+.us'
