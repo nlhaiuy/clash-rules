@@ -1,6 +1,6 @@
 # behavior: domain
 payload:
-# 其它
+# 其它广告
   - '+.1rx.io'
   - '+.51y5.net'
   - '+.7box.vip'
@@ -151,7 +151,11 @@ payload:
   - '+.adjust.com'
   - '+.getui.com'
 
-# 动漫花园
+# 蓝奏云广告
+  - '+.sanme2.taisantech.com'
+  - '+.glores2.taisantech.com'
+
+# 动漫花园广告
   - '+.ads.yimg.com'
   - '+.s.yimg.com'
   - '+.kiwihk.net'
@@ -162,11 +166,11 @@ payload:
   - '+.lijit.com'
   - '+.ads.linkedin.com'
 
-# sukebei.nyaa.si
+# sukebei.nyaa.si广告
   - '+.xlivrdr.com'
   - '+.realsrv.com'
 
-# 魔音
+# 魔音广告
   - '+.rayjump.com'
   - '+.dc.sigmob.cn'
   - '+.adservice.sigmob.cn'
@@ -174,7 +178,7 @@ payload:
   - '+.gdtqq.cn'
   - '+.gdtimg.com'
 
-# pornhub
+# pornhub广告
   - '+.trafficjunky.net'
 
 # A
