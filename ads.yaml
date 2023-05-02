@@ -433,6 +433,7 @@ payload:
   - '+.zzy1.quyaoya.com'
 
 # 哔哩哔哩广告
+  - '+.data.bilibili.com'
   - '+.dataflow.biliapi.com'
   - '+.thirdparty.biliapi.com'
   - '+.cm.bilibili.com'
