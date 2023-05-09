@@ -182,6 +182,9 @@ payload:
 # pornhub广告
   - '+.trafficjunky.net'
   - '+.trafficjunky.com'
+  - '+.etahub.com'
+  - '+.mxpnl.com'
+  - '+.evtubescms.phncdn.com'
 
 # A
 # adobe广告
