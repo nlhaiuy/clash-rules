@@ -507,7 +507,7 @@ payload:
   - '+.googletagmanager.com'
   - '+.googletagservices.com'
  # - '+.googletraveladservices.com'
-  - '+.urchin.com'
+  - '+.service.urchin.com'
 
 # H
 
