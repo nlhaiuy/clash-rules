@@ -153,6 +153,12 @@ payload:
   - '+.getui.com'
   - '+.clarity.ms'
 
+# Snaptube广告
+  - '+.misc.api.snaptube.app'
+  - '+.analytics.snaptube.app'
+  - '+.sensors.snaptube.app'
+  - '+.ad.snaptube.app'
+  
 # 蓝奏云广告
   - '+.sanme2.taisantech.com'
   - '+.glores2.taisantech.com'
