@@ -578,6 +578,8 @@ payload:
   - '+.adeventtracker.spotify.com'
   - '+.adstudio-assets.scdn.co'
   - '+.bloodhound.spotify.com'
+  - '+.pixel.spotify.com'
+  - '+.pixel-static.spotify.com'
 
 # T
 # 腾讯广告
