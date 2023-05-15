@@ -1,5 +1,10 @@
 # behavior: domain
 payload:
+# 未分类
+  - '+.ktkjmp.com'
+  - '+.adxadserv.com'
+  - '+.xlrdr.com'
+
 # Snaptube广告
   - '+.misc.api.snaptube.app'
   - '+.analytics.snaptube.app'
@@ -42,8 +47,8 @@ payload:
   - '+.s3t3d2y8.afcdn.net'
 
 # missav
-- '+.optnx.com'
-- '+.twinrdsyn.com'
+  - '+.optnx.com'
+  - '+.twinrdsyn.com'
 
 # A
 # adobe广告
