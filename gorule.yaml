@@ -60,6 +60,30 @@ payload:
   - 'spotify.map.fastly.net'
   - 'spotify.map.fastlylb.net'
 
+# slack
+
+  - '+.slack-core.com'
+
+  - '+.slack-edge.com'
+
+  - '+.slack-files.com'
+
+  - '+.slack-imgs.com'
+
+  - '+.slack-msgs.com'
+
+  - '+.slack-redir.net'
+
+  - '+.slack.com'
+
+  - '+.slackb.com'
+
+  - '+.slackcertified.com'
+
+  - '+.slackdemo.com'
+
+  - '+.slackhq.com'
+
 # 谷歌
   - '+.0emm.com'
   - '+.1e100.net'
