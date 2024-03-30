@@ -7,7 +7,7 @@ bd: &bd
     Host: 153.3.236.22:443
 
 proxies:
-  - name: 百度-百度域名
+  - name: 百度-域名解析
     type: http
     server: cloudnproxy.baidu.com
     port: 443
