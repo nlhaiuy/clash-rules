@@ -10,6 +10,8 @@ proxies:
   - name: 百度-域名解析
     type: http
     server: cloudnproxy.baidu.com
+    # 备用域名
+    # cloudnproxy.n.shifen.com
     port: 443
     headers:
       Host: "sptest.baidu.com"
