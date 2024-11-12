@@ -1,6 +1,5 @@
 proxies-anchor:
-  b: &b {type: http, port: 443, headers: {X-T5-Auth: 683556433, Host: cloudnproxy.baidu.com}}
-# Host: 153.3.236.22:443
+  b: &b {type: http, port: 443, headers: {X-T5-Auth: 683556433, Host: 153.3.236.22:443}}
 
 proxies:
   - name: 域名解析
