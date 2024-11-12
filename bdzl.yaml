@@ -1,55 +1,58 @@
-proxies-anchor:
-  b: &b {type: http, port: 443, headers: {X-T5-Auth: 683556433, Host: 153.3.236.22:443}}
+baidu: &baidu
+  type: http
+  port: 443
+  udp: false
+  skip-cert-verify: true
+  headers:
+    Host: cloudnproxy.baidu.com
+    X-T5-Auth: 1050504963
+    User-Agent: "okhttp/3.11.0 Dalvik/2.1.0 (Linux; U; Android 11; Build/RP1A.200720.011) baiduboxapp/13.10.0.10 (Baidu; P1 11)"
 
 proxies:
-  - name: 域名解析
-    type: http
-    server: cloudnproxy.baidu.com
-    # 备用域名
-    # cloudnproxy.n.shifen.com
-    port: 443
-    headers:
-      Host: "sptest.baidu.com"
-      X-T5-Auth: "482857715"
-  - name: 北京电信
-    server: 220.181.33.174
-    <<: *b
-  - name: 北京电信2
-    server: 220.181.7.1
-    <<: *b
-  - name: 北京电信3
-    server: 220.181.111.189
-    <<: *b
-  - name: 南京电信
-    server: 180.101.50.249
-    <<: *b
-  - name: 南京电信2
-    server: 180.101.50.208
-    <<: *b
-  - name: 广州电信
-    server: 14.215.182.75
-    <<: *b
-  - name: 苏州联通
-    server: 157.0.148.53
-    <<: *b
-  - name: 保定联通
+  - name: 🇨🇳 联通 河北1
     server: 110.242.70.68
-    <<: *b
-  - name: 保定联通2
+    <<: *baidu
+
+  - name: 🇨🇳 联通 河北2
     server: 110.242.70.69
-    <<: *b
-  - name: 广州联通
-    server: 163.177.17.6
-    <<: *b
-  - name: 广州联通2
-    server: 163.177.17.189
-    <<: *b
-  - name: 南京联通
+    <<: *baidu
+
+  - name: 🇨🇳 联通 南京
     server: 153.3.237.117
-    <<: *b
-  - name: 广州移动
-    server: 183.240.98.84
-    <<: *b
-  - name: 南京移动
+    <<: *baidu
+
+  - name: 🇨🇳 联通 江苏
+    server: 157.0.148.53
+    <<: *baidu
+
+#  - name: 🇨🇳 联通 广州1
+#    server: 163.177.17.6
+#    <<: *baidu
+
+#  - name: 🇨🇳 联通 广州2
+#    server: 163.177.17.189
+#    <<: *baidu
+
+  - name: 🇨🇳 移动 南京
     server: 36.155.169.188
-    <<: *b
+    <<: *baidu
+
+  - name: 🇨🇳 移动 广东
+    server: 183.240.98.84
+    <<: *baidu
+
+  - name: 🇨🇳 电信 广东
+    server: 14.215.182.75
+    <<: *baidu
+
+  - name: 🇨🇳 电信 南京
+    server: 180.101.50.208
+    <<: *baidu
+
+  - name: 🇨🇳 电信 北京
+    server: 220.181.111.189
+    <<: *baidu
+
+  - name: 🇨🇳 Baidu Auto
+    server: cloudnproxy.baidu.com
+    <<: *baidu
