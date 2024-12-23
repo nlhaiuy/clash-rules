@@ -9,6 +9,18 @@ baidu: &baidu
     User-Agent: "okhttp/3.11.0 Dalvik/2.1.0 (Linux; U; Android 11; Build/RP1A.200720.011) baiduboxapp/13.10.0.10 (Baidu; P1 11)"
 
 proxies:
+  - name: 🇨🇳 电信 广东
+    server: 14.215.182.75
+    <<: *baidu
+
+  - name: 🇨🇳 电信 南京
+    server: 180.101.50.208
+    <<: *baidu
+
+  - name: 🇨🇳 电信 北京
+    server: 220.181.111.189
+    <<: *baidu
+
   - name: 🇨🇳 联通 河北1
     server: 110.242.70.68
     <<: *baidu
@@ -25,13 +37,13 @@ proxies:
     server: 157.0.148.53
     <<: *baidu
 
-#  - name: 🇨🇳 联通 广州1
-#    server: 163.177.17.6
-#    <<: *baidu
+  - name: 🇨🇳 联通 广州1
+    server: 163.177.17.6
+    <<: *baidu
 
-#  - name: 🇨🇳 联通 广州2
-#    server: 163.177.17.189
-#    <<: *baidu
+  - name: 🇨🇳 联通 广州2
+    server: 163.177.17.189
+    <<: *baidu
 
   - name: 🇨🇳 移动 南京
     server: 36.155.169.188
@@ -39,18 +51,6 @@ proxies:
 
   - name: 🇨🇳 移动 广东
     server: 183.240.98.84
-    <<: *baidu
-
-  - name: 🇨🇳 电信 广东
-    server: 14.215.182.75
-    <<: *baidu
-
-  - name: 🇨🇳 电信 南京
-    server: 180.101.50.208
-    <<: *baidu
-
-  - name: 🇨🇳 电信 北京
-    server: 220.181.111.189
     <<: *baidu
 
   - name: 🇨🇳 Baidu Auto
