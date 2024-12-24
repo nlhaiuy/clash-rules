@@ -1,4 +1,5 @@
-baidu: &baidu
+# node-anchor
+b: &b
   type: http
   port: 443
   udp: false
@@ -8,51 +9,53 @@ baidu: &baidu
     X-T5-Auth: 1050504963
     User-Agent: "okhttp/3.11.0 Dalvik/2.1.0 (Linux; U; Android 11; Build/RP1A.200720.011) baiduboxapp/13.10.0.10 (Baidu; P1 11)"
 
+# 备用域名：cloudnproxy.n.shifen.com
+
 proxies:
   - name: 🇨🇳 电信 广东
     server: 14.215.182.75
-    <<: *baidu
+    <<: *b
 
   - name: 🇨🇳 电信 南京
     server: 180.101.50.208
-    <<: *baidu
+    <<: *b
 
   - name: 🇨🇳 电信 北京
     server: 220.181.111.189
-    <<: *baidu
+    <<: *b
+
+  - name: 🇨🇳 域名解析
+    server: cloudnproxy.baidu.com
+    <<: *b
 
   - name: 🇨🇳 联通 河北1
     server: 110.242.70.68
-    <<: *baidu
+    <<: *b
 
   - name: 🇨🇳 联通 河北2
     server: 110.242.70.69
-    <<: *baidu
+    <<: *b
 
   - name: 🇨🇳 联通 南京
     server: 153.3.237.117
-    <<: *baidu
+    <<: *b
 
   - name: 🇨🇳 联通 江苏
     server: 157.0.148.53
-    <<: *baidu
+    <<: *b
 
   - name: 🇨🇳 联通 广州1
     server: 163.177.17.6
-    <<: *baidu
+    <<: *b
 
   - name: 🇨🇳 联通 广州2
     server: 163.177.17.189
-    <<: *baidu
+    <<: *b
 
   - name: 🇨🇳 移动 南京
     server: 36.155.169.188
-    <<: *baidu
+    <<: *b
 
   - name: 🇨🇳 移动 广东
     server: 183.240.98.84
-    <<: *baidu
-
-  - name: 🇨🇳 Baidu Auto
-    server: cloudnproxy.baidu.com
-    <<: *baidu
+    <<: *b
