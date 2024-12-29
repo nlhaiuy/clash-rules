@@ -1,13 +1,13 @@
-# node-anchor
-b: &b
-  type: http
-  port: 443
-  udp: false
-  skip-cert-verify: true
-  headers:
-    Host: cloudnproxy.baidu.com
-    X-T5-Auth: 1050504963
-    User-Agent: "okhttp/3.11.0 Dalvik/2.1.0 (Linux; U; Android 11; Build/RP1A.200720.011) baiduboxapp/13.10.0.10 (Baidu; P1 11)"
+node-anchor:
+  b: &b
+    type: http
+    port: 443
+    udp: false
+    skip-cert-verify: true
+    headers:
+      Host: cloudnproxy.baidu.com
+      X-T5-Auth: 1050504963
+      User-Agent: "okhttp/3.11.0 Dalvik/2.1.0 (Linux; U; Android 11; Build/RP1A.200720.011) baiduboxapp/13.10.0.10 (Baidu; P1 11)"
 
 # 备用域名：cloudnproxy.n.shifen.com
 
