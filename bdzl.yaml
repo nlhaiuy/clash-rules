@@ -36,7 +36,7 @@ proxies:
     server: 220.181.111.189
     <<: *b
 
-  - name: 域名解析
+  - name: 🇨🇳 域名解析
     server: cloudnproxy.baidu.com
     <<: *b
 
